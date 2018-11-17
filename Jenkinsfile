@@ -77,8 +77,8 @@ pipeline {
                 rm -f .gitignore || true
                 rm -f .gitmodules  || true
                 rm -f Jenkinsfile  || true
-                rm -rf .env.example
-                rm -rf composer.*
+#                rm -rf .env.example
+#                rm -rf composer.*
                 '''
             }
         }
