@@ -41,7 +41,11 @@
     "roots/wp-password-bcrypt": "1.0.0",
     "roots/wp-config": "1.0.0",
     "wpackagist-plugin/wp-super-cache": "^1.6",
-    "wpackagist-plugin/wordfence":"7.1"
+    "wpackagist-plugin/wordfence":"7.1",
+    "wpackagist-theme/twentyfourteen": "*",
+    "wpackagist-theme/twentyfifteen": "*",
+    "wpackagist-theme/twentyseventeen": "*"
+      
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2",
