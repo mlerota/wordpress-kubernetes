@@ -8,7 +8,7 @@ pipeline {
         )
         booleanParam(
             name: 'sendBuildToS3',
-            defaultValue: true,
+            defaultValue: false,
             description: 'Send build to S3?'
         )
         booleanParam(
